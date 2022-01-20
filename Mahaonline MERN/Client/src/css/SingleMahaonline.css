@@ -1,0 +1,38 @@
+.main__container__maha {
+    display: flex;
+    transition: all 0.3s ease-in-out;
+}
+
+.img{
+    height: 600px;
+    width : 600px;
+}
+.port-image {
+    margin-left:2rem;
+    height: 700px;
+    width : 535px;
+}
+
+.scroll {
+    margin:4px, 4px;
+    padding:4px;
+    width: 600px;
+    height: 1200px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align:justify;
+    
+}
+
+.container__half {
+    flex: 1;
+    
+}
+
+.display__none{
+    display: none;
+}
+
+h3{
+    margin-left: 2rem;
+}
